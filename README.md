@@ -1,1 +1,102 @@
 # profile
+<!DOCTYPE html>
+<html> 
+	<head>
+		
+      <title> My Profile</title>
+    
+	</head>
+	<body background="https://pakmud.com/wp-content/uploads/2023/01/%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87-power-point-%E0%B8%9E%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%97%E0%B8%A5-%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-3.png">
+    		
+		<h1 style="text-align:center;"><ins>My Profile</ins></h1>
+		<div style="text-align:center;">
+		<img src="https://scontent-xsp1-1.xx.fbcdn.net/v/t1.15752-9/328362571_704581114475514_9104806364879332706_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFWCbFVgvgqZwbi2YFu3LKUQYkfwDu6gjdBiR_AO7qCN9PwIWl466qsXs3bOxfXvxduDDH4SVuhWIHYaTDFHZ1d&_nc_ohc=Cak6D3U1xaAAX_Qb1ha&_nc_ht=scontent-xsp1-1.xx&oh=03_AdTZbwNhtNT5d-17Ef-O7QXONLBCgfCO6KiUJPgMyX5QaQ&oe=64B0CE7B" alt="Profile" width="150" height="206">
+		</div>
+		
+		<div style="font-size:120%;">
+		<p style ="color:SlateBlue;"><b>Name</b> : Suwanna Mora <br>
+		<b>Nickname</b> : Benz <br>
+		<b>Student ID</b> : 64021531 <br>
+		<b>Birthday</b> : 20/03/2002 <br>
+		<b>Gender</b> : Female <br>
+		<b>Nationality</b> : Thai <br>
+		<b>Ethnicity</b> : Thai <br>
+		<b>Religion</b> : Buddhist <br>
+		
+		</p>		
+		</div>
+		<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
+		<table style="width:100%">
+<tr style ="color:#0000ff;">
+    <th>ลำดับที่</th>
+    <th>ระดับการศึกษา</th>
+        <th>สาขาวิชา</th>
+    <th>ปีที่สำเร็จการศึกษา</th>
+        <th>ชื่อสถานศึกษา</th>
+  </tr>
+  <tr style ="color:DodgerBlue;">
+     <td style="text-align:center;">1</td>
+    <td style="text-align:center;">ปริญญาตรี</td>
+    <td style="text-align:center;">วิศวกรรมคอมพิวเตอร์</td>
+        <td style="text-align:center;">-</td>
+     <td style="text-align:center;">มหาวิทยาลัยพะเยา</td>
+  </tr>
+    
+   
+  <tr style ="color:DodgerBlue;">
+    <td style="text-align:center;">2</td>
+    <td style="text-align:center;">มัธยมศึกษาตอนปลาย</td>
+       <td style="text-align:center;">วิทย์-คณิต</td>
+    <td style="text-align:center;">2563</td>
+         <td style="text-align:center;">โรงเรียนสระหลวงพิทยาคม</td>
+  </tr>
+   <tr style ="color:DodgerBlue;">
+    <td style="text-align:center;">3</td>
+    <td style="text-align:center;">มัธยมศึกษาตอนต้น</td>
+       <td style="text-align:center;">-</td>
+    <td style="text-align:center;">2560</td>
+         <td style="text-align:center;">โรงเรียนสระหลวงพิทยาคม</td>
+  </tr>
+     <tr style ="color:DodgerBlue;">
+    <td style="text-align:center;">4</td>
+    <td style="text-align:center;">ประถมศึกษา</td>
+       <td style="text-align:center;">-</td>
+    <td style="text-align:center;">2557</td>
+         <td style="text-align:center;">โรงเรียนบ้านหนองไม้แดง</td>
+  </tr>
+</table>
+
+<br><p style ="color:Tomato;"><b>อาหารที่ชอบ</b>
+<ol>
+  <li style ="color:Tomato;">ส้มตำ</li>
+  <li style ="color:Tomato;">ผัดไทย</li>
+  <li style ="color:Tomato;">ผัดกะเพรากุ้ง</li>
+</ol>  
+</p>
+
+<p><b style ="color:Orange;">สีที่ชอบ</b>
+<ol>
+  <li style ="color:Orange;">สีฟ้า</li>
+  <li style ="color:Orange;">สีม่วง</li>
+  <li style ="color:Orange;">สีเขียว</li>
+</ol>  
+</p>
+
+<p style ="color:Violet;"><b>สัตว์ที่ชอบ</b>
+<ol>
+  <li style ="color:Violet;">แมว</li>
+  <li style ="color:Violet;">สุนัข</li>
+  <li style ="color:Violet;">ลิง</li>
+</ol>  
+</p>
+ 	
+
+
+
+	</body>
+</html>
